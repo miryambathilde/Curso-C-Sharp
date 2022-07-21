@@ -13,3 +13,6 @@ C:\Users\Miryam\source\C#10\Curso C Sharp\Bucles\obj\Debug\net6.0\refint\Bucles.
 C:\Users\Miryam\source\C#10\Curso C Sharp\Bucles\obj\Debug\net6.0\Bucles.pdb
 C:\Users\Miryam\source\C#10\Curso C Sharp\Bucles\obj\Debug\net6.0\Bucles.genruntimeconfig.cache
 C:\Users\Miryam\source\C#10\Curso C Sharp\Bucles\obj\Debug\net6.0\ref\Bucles.dll
+C:\Users\Miryam\source\C#10\Curso C Sharp\Bucles\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Miryam\source\C#10\Curso C Sharp\Bucles\bin\Debug\net6.0\SolrNet.dll
+C:\Users\Miryam\source\C#10\Curso C Sharp\Bucles\obj\Debug\net6.0\Bucles.csproj.CopyComplete
