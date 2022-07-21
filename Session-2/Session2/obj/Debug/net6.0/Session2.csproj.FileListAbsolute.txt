@@ -1,0 +1,15 @@
+C:\Users\Miryam\source\C#10\Curso C Sharp\session-2\Session2\bin\Debug\net6.0\Session2.exe
+C:\Users\Miryam\source\C#10\Curso C Sharp\session-2\Session2\bin\Debug\net6.0\Session2.deps.json
+C:\Users\Miryam\source\C#10\Curso C Sharp\session-2\Session2\bin\Debug\net6.0\Session2.runtimeconfig.json
+C:\Users\Miryam\source\C#10\Curso C Sharp\session-2\Session2\bin\Debug\net6.0\Session2.dll
+C:\Users\Miryam\source\C#10\Curso C Sharp\session-2\Session2\bin\Debug\net6.0\Session2.pdb
+C:\Users\Miryam\source\C#10\Curso C Sharp\session-2\Session2\obj\Debug\net6.0\Session2.csproj.AssemblyReference.cache
+C:\Users\Miryam\source\C#10\Curso C Sharp\session-2\Session2\obj\Debug\net6.0\Session2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miryam\source\C#10\Curso C Sharp\session-2\Session2\obj\Debug\net6.0\Session2.AssemblyInfoInputs.cache
+C:\Users\Miryam\source\C#10\Curso C Sharp\session-2\Session2\obj\Debug\net6.0\Session2.AssemblyInfo.cs
+C:\Users\Miryam\source\C#10\Curso C Sharp\session-2\Session2\obj\Debug\net6.0\Session2.csproj.CoreCompileInputs.cache
+C:\Users\Miryam\source\C#10\Curso C Sharp\session-2\Session2\obj\Debug\net6.0\Session2.dll
+C:\Users\Miryam\source\C#10\Curso C Sharp\session-2\Session2\obj\Debug\net6.0\refint\Session2.dll
+C:\Users\Miryam\source\C#10\Curso C Sharp\session-2\Session2\obj\Debug\net6.0\Session2.pdb
+C:\Users\Miryam\source\C#10\Curso C Sharp\session-2\Session2\obj\Debug\net6.0\Session2.genruntimeconfig.cache
+C:\Users\Miryam\source\C#10\Curso C Sharp\session-2\Session2\obj\Debug\net6.0\ref\Session2.dll
