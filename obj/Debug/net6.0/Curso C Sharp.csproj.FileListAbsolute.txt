@@ -1,0 +1,5 @@
+C:\Users\Miryam\source\C#10\Curso C Sharp\obj\Debug\net6.0\Curso C Sharp.csproj.AssemblyReference.cache
+C:\Users\Miryam\source\C#10\Curso C Sharp\obj\Debug\net6.0\Curso C Sharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miryam\source\C#10\Curso C Sharp\obj\Debug\net6.0\Curso C Sharp.AssemblyInfoInputs.cache
+C:\Users\Miryam\source\C#10\Curso C Sharp\obj\Debug\net6.0\Curso C Sharp.AssemblyInfo.cs
+C:\Users\Miryam\source\C#10\Curso C Sharp\obj\Debug\net6.0\Curso C Sharp.csproj.CoreCompileInputs.cache
